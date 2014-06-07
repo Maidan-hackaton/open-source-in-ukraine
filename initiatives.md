@@ -16,3 +16,5 @@
 * [Майдан-хакатон (facebook)](https://www.facebook.com/groups/MaidanHackthon)
   * [ИТ-краина](http://ideas.it-krayina.org.ua/)
 * [Нарада](http://nr.org.ua/)
+* [SocialBoost](http://2014.socialboost.com.ua/)
+* [Центр городских инициатив HUB Odessa](http://odessa.uservoice.com/forums/253504-%D0%98%D0%B4%D0%B5%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0)
