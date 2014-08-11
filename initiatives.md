@@ -10,6 +10,12 @@
 
 * [Відкритий бюджет](https://api.open-budget.org/)
 
+## Украинцы на GitHub
+
+* [Vanuan](https://github.com/Vanuan)
+* [grsmv](https://github.com/grsmv)
+
+
 ## Инициативные группы
 
 * ["Нац. ОС" (КПИ)](http://forum.comsys.kpi.ua/viewforum.php?id=1)
