@@ -10,10 +10,11 @@
 
 * [Відкритий бюджет](https://api.open-budget.org/)
 
-## Украинцы на GitHub
+## [Украинцы на GitHub](https://github.com/search?q=ukraine&ref=cmdform&type=Users&utf8=%E2%9C%93)
 
-* [Vanuan](https://github.com/Vanuan)
 * [grsmv](https://github.com/grsmv)
+* [muromec](https://github.com/muromec)
+* [Vanuan](https://github.com/Vanuan)
 
 
 ## Инициативные группы
