@@ -16,7 +16,7 @@
 * [kachayev](https://github.com/kachayev) (CloudMade)
 * [mourner](https://github.com/mourner) (Открытые карты, CloudMade)
 * [muromec](https://github.com/muromec) (Открытая ЭЦП)
-* [piranha](https://github.com/piranha) ([Хороший](https://www.youtube.com/watch?v=jAUyDNrEepQ) [презентатор](https://www.youtube.com/watch?v=l4mmMsAVjzk), [слайды](http://piranha.github.io/slides/))
+* [piranha](https://github.com/piranha) ([Хороший презентатор](https://www.youtube.com/watch?v=bR-sJAI2Mts), [слайды](http://piranha.github.io/slides/))
 * [Vanuan](https://github.com/Vanuan)
 
 
