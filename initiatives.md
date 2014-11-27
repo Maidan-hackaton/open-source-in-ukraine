@@ -13,6 +13,7 @@
 ## [Украинцы на GitHub](https://github.com/search?utf8=%E2%9C%93&q=location%3Aukraine&type=Users&ref=searchresults)
 
 * [grsmv](https://github.com/grsmv)
+* [mourner](https://github.com/mourner)
 * [muromec](https://github.com/muromec)
 * [Vanuan](https://github.com/Vanuan)
 
