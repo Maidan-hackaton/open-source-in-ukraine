@@ -13,8 +13,10 @@
 ## [Украинцы на GitHub](https://github.com/search?utf8=%E2%9C%93&q=location%3Aukraine&type=Users&ref=searchresults)
 
 * [grsmv](https://github.com/grsmv) (Открытый бюджет)
-* [mourner](https://github.com/mourner) (Открытые карты)
+* [kachayev](https://github.com/kachayev) (CloudMade)
+* [mourner](https://github.com/mourner) (Открытые карты, CloudMade)
 * [muromec](https://github.com/muromec) (Открытая ЭЦП)
+* [piranha](https://github.com/piranha) ([Хороший](https://www.youtube.com/watch?v=jAUyDNrEepQ) [презентатор](https://www.youtube.com/watch?v=l4mmMsAVjzk), [слайды](http://piranha.github.io/slides/))
 * [Vanuan](https://github.com/Vanuan)
 
 
