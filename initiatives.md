@@ -20,6 +20,7 @@
 * [randx](https://github.com/randx) (GitLab)
 * [dmytrodanylyk](https://github.com/dmytrodanylyk) (Android developer and speaker)
 * [dimsemenov](https://github.com/dimsemenov) (UX designer and web developer)
+* [5HT](https://github.com/5HT)
 * [Vanuan](https://github.com/Vanuan)
 
 
