@@ -18,6 +18,8 @@
 * [muromec](https://github.com/muromec) (Открытая ЭЦП)
 * [piranha](https://github.com/piranha) ([Хороший презентатор](https://www.youtube.com/watch?v=bR-sJAI2Mts), [слайды](http://piranha.github.io/slides/))
 * [randx](https://github.com/randx) (GitLab)
+* [dmytrodanylyk](https://github.com/dmytrodanylyk) (Android developer and speaker)
+* [dimsemenov](https://github.com/dimsemenov) (UX designer and web developer)
 * [Vanuan](https://github.com/Vanuan)
 
 
