@@ -26,7 +26,6 @@
 
 ## Инициативные группы
 
-* ["Нац. ОС" (КПИ)](http://forum.comsys.kpi.ua/viewforum.php?id=1)
 * [Майдан-хакатон (facebook)](https://www.facebook.com/groups/MaidanHackthon)
   * [ИТ-краина](http://ideas.it-krayina.org.ua/)
 * [Нарада](http://nr.org.ua/)
